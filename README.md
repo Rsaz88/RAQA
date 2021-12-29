@@ -8,3 +8,6 @@ collected from existing RC dataset and has a unified
 format similar to the format of SQuAD where every
 question has an answer that were extracted literally
 from a related reading passage.
+
+
+This repository contains the baseline model and the labeled dataset.
