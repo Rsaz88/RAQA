@@ -1,6 +1,6 @@
 # RAQA
 
-We present RAQA1 dataset to fulfill the need for a
+We present RAQA dataset to fulfill the need for a
 large and high quality Arabic question answering
 dataset. The Reading-comprehension Arabic Question
 Answering (RAQA) dataset consisting of questions
