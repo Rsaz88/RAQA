@@ -11,4 +11,4 @@ from a related reading passage.
 
 
 You can open the baseline model directly in GoogleColab from here:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/Rsaz88/RAQA/blob/main/RAQA.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
