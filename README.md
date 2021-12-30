@@ -10,4 +10,6 @@ question has an answer that were extracted literally
 from a related reading passage.
 
 
-This repository contains the baseline model and the labeled dataset.
+You can open the baseline model directly in GoogleColab from here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lBp69e_JIFeJjXWMYEhaX9aYozU5wtIv?usp=sharing]
+
+
