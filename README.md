@@ -11,5 +11,4 @@ from a related reading passage.
 
 
 You can open the baseline model directly in GoogleColab from here:
-[![Open In Colab](https://colab.research.google.com/drive/1lBp69e_JIFeJjXWMYEhaX9aYozU5wtIv?usp=sharing)](https://colab.research.google.com/github/weiji14/deepbedmap/]
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lBp69e_JIFeJjXWMYEhaX9aYozU5wtIv?usp=sharing/github/Rsaz88/RAQA/]
